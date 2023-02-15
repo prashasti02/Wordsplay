@@ -1,0 +1,2 @@
+Dataset: https://arxiv.org/abs/1710.06071
+A PubMed 200k RCT data for sequential sentence classification. The dataset consists of approximately 200,000 abstracts of randomized controlled trials, totaling 2.3 million sentences. Each sentence of each abstract is labeled with their role in the abstract using one of the following classes: background, objective, method, result, or conclusion.
