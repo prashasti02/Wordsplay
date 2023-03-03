@@ -10,7 +10,11 @@ Building a multimodal model.
 
 Model 0: TF_IDF Multinomial Naive Bayes
 
+We create Scikit-Learn pipeline which uses TfidfVectorizer class to convert our abstract sentences to numbers using the TF-IDF algo and then use MultinomialNB to classify the sentences.
+
 Model 1: Conv1D with token embeddings
+
+
 
 Model 2: Feature extraction with pre-trained token embeddings
 
