@@ -7,8 +7,13 @@ Creating an NLP model to classify abstract sentences into objective, methods , r
 Making a baseline (TF-IDF classifier)
 Deep models with different combinations of: token embeddings, character embeddings, pretrained embeddings, positional embeddings.
 Building a multimodal model.
+
 Model 1: Conv1D with token embeddings
+
 Model 2: Feature extraction with pre-trained token embeddings
+
 Model 3: Conv1D with character embeddings
+
 Model 4: Combining pre-trained token embeddings + character embeddings (hybrid embedding layer)
+
 Model 5: Transfer Learning with pre-trained token embeddings + character embeddings + positional embeddings
