@@ -8,6 +8,8 @@ Making a baseline (TF-IDF classifier)
 Deep models with different combinations of: token embeddings, character embeddings, pretrained embeddings, positional embeddings.
 Building a multimodal model.
 
+Model 0: TF_IDF Multinomial Naive Bayes
+
 Model 1: Conv1D with token embeddings
 
 Model 2: Feature extraction with pre-trained token embeddings
