@@ -23,3 +23,13 @@ Model 3: Conv1D with character embeddings
 Model 4: Combining pre-trained token embeddings + character embeddings (hybrid embedding layer)
 
 Model 5: Transfer Learning with pre-trained token embeddings + character embeddings + positional embeddings
+
+## Packages Used
+- Tensorflow
+- tensorflow_text
+- tensorflow_hub
+- sklearn
+- Matplotlib
+- numpy
+- pandas
+- spaCy
